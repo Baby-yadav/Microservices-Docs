@@ -1,3 +1,5 @@
+Dependencies required for using the circuit breaker
+====================================================
 <dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
