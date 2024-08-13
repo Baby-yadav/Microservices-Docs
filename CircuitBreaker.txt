@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Dependencies required for using the circuit breaker 
 
 We are here 
+=======
+Dependencies required for using the circuit breaker chaanges is here 
+====================================================
+>>>>>>> 7e97b797839b9ddd8b2f0163a9f782faa2d22995
 <dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
